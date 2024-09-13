@@ -18,3 +18,8 @@ Dependências:
 express: Framework para criação do servidor.
 sequelize: ORM para interagir com o banco de dados.
 sqlite3: Banco de dados SQLite.
+
+Ferramenta:
+
+Utilizei a ferramenta Postman que ajuda a testar, podendo enviar requisições HTTP (como GET, POST, PUT, DELETE) para seus endpoints e visualizar as respostas.
+Utilizei o método PUT para atualizar o status das mensagens, enquanto utilizei o método GET para buscar mensagens por seus status.
